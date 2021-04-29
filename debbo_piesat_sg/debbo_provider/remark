@@ -1,0 +1,3 @@
+# 服务提供者
+### 跳过测试打包
+* mvn clean install -Dmaven.test.skip=true
